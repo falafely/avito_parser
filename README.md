@@ -1,1 +1,1 @@
-Just a simple parser for Avito with output links of the product
+Just a simple parser for Avito with the output of product links
